@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 <p align="left">
- <img width="600px" src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" align="center" alt="Odoo Docker Compose" />
+ <img width="100px" src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" align="center" alt="Odoo Docker Compose" />
 </p>
