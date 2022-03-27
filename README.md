@@ -31,20 +31,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div class="row">
-  <div class="column">
-    <img src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" alt="Snow" style="width:33px">
-  </div>
-  <div class="column">
-    <img src="https://nagsis.com/images/AWS-SolArchitect-Associate-2020.png" alt="Forest" style="width:33px">
-  </div>
-  <div class="column">
-    <img src="https://nagsis.com/images/Badges_v8-07_Practitioner.png" alt="Mountains" style="width:33px">
-  </div>
-</div>
-
 <p float="left">
   <img src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" width="100" />
   <img src="https://nagsis.com/images/AWS-SolArchitect-Associate-2020.png" width="100" /> 
   <img src="https://nagsis.com/images/Badges_v8-07_Practitioner.png" width="100" />
+  <img src="https://nagsis.com/images/image.png" width="100" />
 </p>
