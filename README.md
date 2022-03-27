@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/CsarGrnds">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
 </a>
+
+
+<p align="left">
+ <img width="600px" src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" align="center" alt="Odoo Docker Compose" />
+</p>
