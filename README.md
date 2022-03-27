@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <div class="row">
   <div class="column">
-    <img src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" alt="Snow" style="width:100%">
+    <img src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" alt="Snow" style="width:100px">
   </div>
   <div class="column">
-    <img src="https://nagsis.com/images/AWS-SolArchitect-Associate-2020.png" alt="Forest" style="width:100%">
+    <img src="https://nagsis.com/images/AWS-SolArchitect-Associate-2020.png" alt="Forest" style="width:100px">
   </div>
   <div class="column">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
