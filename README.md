@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p float="left">
   <img src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" width="70" />
   <img src="https://nagsis.com/images/AWS-SolArchitect-Associate-2020.png" width="70" /> 
-  <img src=https://images.credly.com/size/680x680/images/58f22878-bc35-4e44-9dcc-940215a9b131/WellArch-Proficient.png" width="70" /> 
+  <img src="https://images.credly.com/size/680x680/images/58f22878-bc35-4e44-9dcc-940215a9b131/WellArch-Proficient.png" width="70" /> 
   <img src="https://nagsis.com/images/Badges_v8-07_Practitioner.png" width="70" />
   <img src="https://nagsis.com/images/image.png" width="70" />
 </p>
