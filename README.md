@@ -28,7 +28,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
 </a>
 
+<br>
+<br>
 
 <p align="left">
  <img width="100px" src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" align="center" alt="Odoo Docker Compose" />
 </p>
+<p align="left">
+ <img width="100px" src="https://nagsis.com/images/AWS-SolArchitect-Associate-2020.png" align="center" alt="Odoo Docker Compose" />
+</p>
+
