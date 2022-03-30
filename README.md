@@ -38,4 +38,5 @@ Here are some ideas to get you started:
   <img src="https://nagsis.com/images/Badges_v8-07_Practitioner.png" width="70" />
   <img src="https://nagsis.com/images/image.png" width="70" />
   <img src="https://images.credly.com/size/680x680/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png" width="70" />
+  <img src="https://images.credly.com/size/680x680/images/b1617f28-f486-47be-adc2-c733a2b5c360/CertiProf-Badge-SPOPC.png" width="70" />
 </p>
