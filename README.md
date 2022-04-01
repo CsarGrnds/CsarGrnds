@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <img src="https://images.credly.com/size/680x680/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png" width="70" />
 </p>
 
+[My badges:](https://www.credly.com/earner/earned)
+
 Tip: [Add your own user profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 
