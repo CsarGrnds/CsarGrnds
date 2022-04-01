@@ -1,12 +1,10 @@
 <h2 align="left">Hi 👋, I'm César but for most of the internet I'm CsarGrnds </h1>
-<h4 align="center">DevOps Engineer, Cloud Architect, Data Enthusiast, Dad <3</h3>
+<h5 align="left">DevOps Engineer, Cloud Architect, Data Enthusiast, Dad <3</h3>
 
 
 <p align="center">
  <img width="100px" src="https://i1.wp.com/teknixx.com/wp-content/uploads/2021/05/cropped-Teknixx-Logo-300x202-1.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">CsarGrnds's ReadMe File</h2>
- <p align="center">DevOps Engineer, Cloud Architect, Data Enthusiast, Dad <3</p>
-</p>
+
 
 ### Hola mundo 👋, my name is César
 
