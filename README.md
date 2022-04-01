@@ -47,6 +47,4 @@ Tip: [Add your own user profile README](https://docs.github.com/en/account-and-p
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csargrnds&show_icons=true&locale=en&layout=compact" alt="csargrnds" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csargrnds&show_icons=true&locale=en" alt="csargrnds" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csargrnds&" alt="csargrnds" /></p>
