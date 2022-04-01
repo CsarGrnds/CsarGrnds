@@ -30,3 +30,5 @@ Tip: [Add your own user profile README](https://docs.github.com/en/account-and-p
 <a href="https://github.com/CsarGrnds">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rcsargrnds)](https://github.com/csargrnds/github-profile-trophy)
