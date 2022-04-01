@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 Tip: [Add your own user profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csargrnds&show_icons=true&locale=en&layout=compact" alt="csargrnds" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csargrnds&label=Profile%20views&color=0e75b6&style=flat" alt="csargrnds" /> </p>
+
