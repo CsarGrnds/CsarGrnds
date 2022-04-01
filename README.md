@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/CsarGrnds">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CsarGrnds&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 -->
-<a href="https://github.com/CsarGrnds">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
-</a>
+
 
 <br>
 <br>
@@ -50,3 +48,6 @@ Tip: [Add your own user profile README](https://docs.github.com/en/account-and-p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csargrnds&label=Profile%20views&color=0e75b6&style=flat" alt="csargrnds" /> </p>
 
+<a href="https://github.com/CsarGrnds">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
+</a>
