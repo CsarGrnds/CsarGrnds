@@ -1,12 +1,7 @@
 <h2 align="left">Hi, I'm César but for most of the internet I'm CsarGrnds </h1>
-<h5 align="left">I'm a DevOps engineer, been around in the tech universe almost half part of my life, so I have a thing or two to share, I'm also a cloud architect, data enthusiast, monitoring and observability lover, I have a lot of hobbies more that I can handle and above all that, I am a father ❤️ </h3>
+<h5 align="left">I'm a DevOps engineer, been around in the tech universe almost half part of my life, so I have a thing or two to share, I'm also a cloud architect, data enthusiast, monitoring and observability lover, I have a lot of hobbies more that I can handle and above all that, I am a father ❤️</h3>
 
 
-<p align="center">
- <img width="100px" src="https://i1.wp.com/teknixx.com/wp-content/uploads/2021/05/cropped-Teknixx-Logo-300x202-1.png" align="center" alt="GitHub Readme Stats" />
-
-
-### Hola mundo 👋, my name is César
 
 <!--
 **CsarGrnds/CsarGrnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
