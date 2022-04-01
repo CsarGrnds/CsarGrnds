@@ -25,8 +25,7 @@ Check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/b
 Tip: [Add your own user profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csargrnds&label=Profile%20views&color=0e75b6&style=flat" alt="csargrnds" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csargrnds" alt="csargrnds" /></a> </p>
 <a href="https://github.com/CsarGrnds">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
 </a>
