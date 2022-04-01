@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm César but for most of the internet I'm CsarGrnds </h1>
-<h5 align="left">I'm a DevOps engineer, been around in the tech universe almost half part of my life, so I have a thing or two to share, I'm also a cloud architect, data enthusiast, monitoring and observability lover, I have a lot of hobbies more that I can handle and above all that, I am a father ❤️</h3>
+<h5 align="left">I'm a DevOps engineer, been around in the tech universe almost half part of my life, so I have learned a thing or two during my journey, I'm also a cloud architect, data enthusiast, monitoring and observability lover, I have a lot of hobbies more that I can handle and above all that, I am a father ❤️</h3>
 
 
 
