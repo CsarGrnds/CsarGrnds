@@ -1,7 +1,14 @@
 <h2 align="left">Hi, I'm César but for most of the internet I'm CsarGrnds </h1>
 <h5 align="left">I'm a DevOps engineer, been around in the tech universe almost half part of my life, so I have learned a thing or two during my journey, I'm also a cloud architect, data enthusiast, monitoring and observability lover, I have a lot of hobbies more that I can handle and above all that, I am a father ❤️</h3>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/csargrnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csargrnds" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/csargrnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csargrnds" height="30" width="40" /></a>
+<a href="https://fb.com/csargrnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="csargrnds" height="30" width="40" /></a>
+<a href="https://instagram.com/csargrnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csargrnds" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/csargrnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="csargrnds" height="30" width="40" /></a>
+</p>
 
 <!--
 **CsarGrnds/CsarGrnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
