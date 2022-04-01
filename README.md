@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<br>
-<br>
+<h3 align="left">#NeverStopLearning 🌱</h3>
 
 <p float="left">
   <img src="https://images.credly.com/size/680x680/images/b1617f28-f486-47be-adc2-c733a2b5c360/CertiProf-Badge-SPOPC.png" width="70" />
