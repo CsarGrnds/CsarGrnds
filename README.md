@@ -26,8 +26,3 @@ Tip: [Add your own user profile README](https://docs.github.com/en/account-and-p
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csargrnds&label=Profile%20views&color=0e75b6&style=flat" alt="csargrnds" /> </p>
-
-</a>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csargrnds" alt="csargrnds" /></a> </p>
