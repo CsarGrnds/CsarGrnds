@@ -8,26 +8,6 @@
 <a href="https://www.youtube.com/c/csargrnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="csargrnds" height="30" width="40" /></a>
 </p>
 
-<!--
-**CsarGrnds/CsarGrnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<a href="https://github.com/CsarGrnds">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CsarGrnds&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
--->
-
-
 <h3 align="left">#NeverStopLearning 🌱</h3>
 
 <p float="left">
@@ -40,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://images.credly.com/size/680x680/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png" width="70" />
 </p>
 
-check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/badges) [accredible](https://www.credential.net/profile/cesargranados39087/wallet)
+check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/badges), [Accredible](https://www.credential.net/profile/cesargranados39087/wallet)
 
 Tip: [Add your own user profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
