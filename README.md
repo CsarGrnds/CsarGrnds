@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm César but for most of the internet I'm CsarGrnds </h1>
-<h3 align="center">DevOps Engineer, Cloud Architect, Data Enthusiast, Dad <3</h3>
+<h2 align="left">Hi 👋, I'm César but for most of the internet I'm CsarGrnds </h1>
+<h4 align="center">DevOps Engineer, Cloud Architect, Data Enthusiast, Dad <3</h3>
 
 
 <p align="center">
