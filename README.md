@@ -28,5 +28,8 @@ Tip: [Add your own user profile README](https://docs.github.com/en/account-and-p
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CsarGrnds&layout=compact&theme=radical" />
 </a>
 
+<br>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csargrnds" alt="csargrnds" /></a> </p>
 
