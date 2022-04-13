@@ -21,8 +21,6 @@
   <img src="https://images.credly.com/size/680x680/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png" width="70" />
 </p>
 
-https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
-
 Check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/badges), [Accredible](https://www.credential.net/profile/cesargranados39087/wallet)
 
 Tip: [Add your own user profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
