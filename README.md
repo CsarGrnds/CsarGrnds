@@ -19,6 +19,7 @@
   <img src="https://nagsis.com/images/Badges_v8-07_Practitioner.png" width="70" />
   <img src="https://nagsis.com/images/image.png" width="70" />
   <img src="https://images.credly.com/size/680x680/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png" width="70" />
+  <img src="https://res.cloudinary.com/gremlin/image/upload/v1634663634/Landing%20Pages/Certification%20Page/series/Gremlin-Seal-2.png" width="70" />
 </p>
 
 Check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/badges), [Accredible](https://www.credential.net/profile/cesargranados39087/wallet)
