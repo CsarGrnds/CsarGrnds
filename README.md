@@ -24,7 +24,7 @@
   <img src="https://res.cloudinary.com/gremlin/image/upload/v1634663634/Landing%20Pages/Certification%20Page/series/Gremlin-Seal-2.png" width="70" />
 </p>
 
-Check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/badges), [Accredible](https://www.credential.net/profile/cesargranados39087/wallet)
+Check out my learning journey: [Credly](https://www.credly.com/users/csargrnds/badges), [Accredible](credential.net/profile/csargrnds/wallet)
 
 Tip: [Add your own user profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
