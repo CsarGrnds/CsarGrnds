@@ -1,5 +1,5 @@
-<p float="center">
-<img width="200px" src="https://csargrnds.com/images/csargrnds-logo.png" align="center"/>
+<p align="center">
+<img width="300px" src="https://csargrnds.com/images/csargrnds-logo.png"/>
 </p>
   
 <h2 align="left">Hi, I'm César but for most of the internet I'm CsarGrnds </h1>
@@ -15,11 +15,9 @@
 <h3 align="left">#NeverStopLearning 🌱</h3>
 
 <p float="left">
-  <img src="https://images.credly.com/size/680x680/images/b1617f28-f486-47be-adc2-c733a2b5c360/CertiProf-Badge-SPOPC.png" width="70" />
   <img src="https://nagsis.com/images/Scrum-Master-Professional-Certificate-SMPC_-2020.png" width="70" />
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" /> 
   <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="70" /> 
-  <img src="https://images.credly.com/size/680x680/images/58f22878-bc35-4e44-9dcc-940215a9b131/WellArch-Proficient.png" width="70" /> 
   <img src="https://nagsis.com/images/Badges_v8-07_Practitioner.png" width="70" />
   <img src="https://nagsis.com/images/image.png" width="70" />
   <img src="https://images.credly.com/size/680x680/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png" width="70" />
